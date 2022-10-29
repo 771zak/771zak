@@ -29,4 +29,4 @@ I've been learning to code for almost 2 years, I started with python, but have r
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/771zak"><img src="https://github-readme-stats.vercel.app/api?username=zak771&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zak771's GitHub stats" /></a>
+<a href="http://www.github.com/771zak"><img src="https://github-readme-stats.vercel.app/api?username=771zak&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="771zak's GitHub stats" /></a>
